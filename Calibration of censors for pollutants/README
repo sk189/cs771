@@ -1,0 +1,3 @@
+We tried various non linear models like decision trees, kernels, nearest-neighbors, deep-nets, and
+random forests for this question. The final model used with reasonable time was the support
+vector regression.
